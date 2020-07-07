@@ -1,2 +1,0 @@
-# pretestharti
-hasil pretest harti
