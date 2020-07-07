@@ -1,2 +1,9 @@
 pretest ini dibuat bukan menggunakan framework tetapi menggunakan editor Visual Studio Code
-catatan: saat mengedit foto profile foto harus diganti
+catatan: 
+         untuk melihat hasil pretest silakan ketik localhost/wpu-akhir
+         jangan lupa nyalakan xampp terlebih dahulu
+         buat database di phpmyadmin dengan nama dbpretest setelah itu import file dbpretest.sql ke database tersebut
+         *saat mengedit foto profile, foto harus diganti
+         *untuk otp dibuat manual(karna sudah mencoba mendaftar tapi belum teregistrasi sampai saat ini) yaitu disimpan dalam database tb_user sehingga untuk memasukkan otp harus dilihat dan disamakan dengan di field otp
+         
+terimakasih.
