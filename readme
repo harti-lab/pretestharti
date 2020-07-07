@@ -3,8 +3,8 @@ catatan:
          jangan lupa nyalakan xampp terlebih dahulu
          buat database di phpmyadmin dengan nama "dbpretest" setelah itu import file "dbpretest.sql" ke database tersebut
          untuk masuk ke menu login silakan ketik "localhost/wpu-akhir"
-         untuk mendaftar terlebih dahulu ketik "localhost/wpu-akhir/daftar"
-         * saat mengedit foto profile, foto harus diganti
+         untuk masuk kemenu registration silakan ketik "localhost/wpu-akhir/daftar"
          * untuk otp dibuat manual(karna sudah mencoba mendaftar tetapi belum teregistrasi sampai saat ini) 
-         * otp tersimpan dalam database "tb_user" sehingga untuk memasukkan otp harus dilihat dan disamakan dengan "tb_ user" field "otp"      
+         * otp tersimpan dalam database "tb_user" sehingga untuk memasukkan otp harus dilihat dan disamakan dengan "tb_ user" field "otp"   
+         * saat mengedit foto profile, foto harus diganti
 terimakasih.
